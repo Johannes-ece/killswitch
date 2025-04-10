@@ -1,8 +1,8 @@
 {
-    "last_updated": "2025-04-10T15:30:00Z",
-    "min_required_version": "1.1.0",
+    "last_updated": "2025-04-10T15:30:00Z", 
+    "min_required_version": "1.1", 
     "whitelist": {
-      "1.1.0": ["18", "19", "20"]
+      "1.1": ["18", "19", "20"] 
     },
     "messages": {
       "version_too_old": "This version is no longer supported. Please update to the latest version from TestFlight.",
@@ -10,12 +10,12 @@
     },
     "comments": [
       "HOW THIS KILLSWITCH WORKS:",
-      "1. Any app version below 1.1.0 is automatically killed (via min_required_version)",
-      "2. For version 1.1.0, only builds listed in the whitelist array are allowed to run",
+      "1. Any app version below 1.1 is automatically killed (via min_required_version)", 
+      "2. For version 1.1, only builds listed in the whitelist array are allowed to run", 
       "3. To disable a build: remove its number from the whitelist",
       "4. To enable a new build: add its number to the appropriate version's whitelist",
       "5. To kill an entire version: remove it from whitelist or update min_required_version",
-      "6. Current active builds: Version 1.1.0 build 18 and above",
+      "6. Current active builds: Version 1.1 builds 18, 19, 20",
       "7. Last configuration update: April 10, 2025"
     ]
   }
