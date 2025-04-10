@@ -1,0 +1,12 @@
+{
+    "last_updated": "2025-04-10T12:00:00Z",
+    "min_required_version": "1.0.0",
+    "whitelist": {
+      "1.0.0": ["123", "124", "125"],
+      "1.1.0": ["201", "202"]
+    },
+    "messages": {
+      "version_too_old": "This version is no longer supported. Please update to the latest version.",
+      "build_disabled": "This test build has been disabled. Please download a newer build from TestFlight."
+    }
+  }
