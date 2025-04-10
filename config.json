@@ -2,7 +2,7 @@
     "last_updated": "2025-04-10T15:30:00Z", 
     "min_required_version": "1.1", 
     "whitelist": {
-      "1.1": ["19", "20"] 
+      "1.1": ["19", "20", "21", "22", "23", "24"] 
     },
     "messages": {
       "version_too_old": "This version is no longer supported. Please update to the latest version from TestFlight.",
