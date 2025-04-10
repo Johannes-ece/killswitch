@@ -6,7 +6,7 @@
     },
     "messages": {
       "version_too_old": "This version is no longer supported. Please update to the latest version from TestFlight.",
-      "build_disabled": "This test build has been disabled. Please download build 18 or newer from TestFlight."
+      "build_disabled": "This test build has been disabled. Please download build 21 or newer from TestFlight."
     },
     "comments": [
       "HOW THIS KILLSWITCH WORKS:",
